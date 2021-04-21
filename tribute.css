@@ -101,6 +101,10 @@ a:visited{
     color: #dd977b;
 }
 
+a:hover {
+    color: #8c3b1a;
+  }
+
 ul{
     list-style-type: circle;
     padding: 0 15vw 5vw 15vw;
