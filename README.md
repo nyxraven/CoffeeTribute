@@ -1,5 +1,11 @@
 # CoffeeTribute
 
+
+Live DEMO: <b> <a href="https://nyxraven.github.io/CoffeeTribute/" target="_blank"> HERE </a></b>
+
+
+-------------------------------------------------------------------------------
+
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
@@ -26,4 +32,4 @@ User Story #9: The img element should be centered within its parent element.
 
 ------------------------------------------------------------------------------
 
-Live DEMO: 
+
